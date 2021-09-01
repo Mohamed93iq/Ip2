@@ -1,0 +1,777 @@
+#EXTM3U
+
+#EXTINF:-1,beIN SPORTS Premium 1 HD
+
+http://172.25.25.20:1935/bein1/1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS Premium 2 HD
+
+http://172.25.25.20:1935/bein1/2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS Premium 3 HD
+
+http://172.25.25.20:1935/bein1/3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD1
+
+http://172.25.25.20:1935/bein1/4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD2
+
+http://172.25.25.20:1935/bein1/5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD3
+
+http://172.25.25.20:1935/bein2/6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD4
+
+http://172.25.25.20:1935/bein2/7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD5
+
+http://172.25.25.20:1935/bein2/8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD6
+
+http://172.25.25.20:1935/bein2/9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD7
+
+http://172.25.25.20:1935/bein2/10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD8
+
+http://172.25.25.20:1935/bein2/21/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD9
+
+http://172.25.25.20:1935/bein2/43/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS NBA
+
+http://172.25.25.20:1935/bein2/news/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS NEWS
+
+http://172.25.25.20:1935/bein2/nba/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Eleven Sports 1
+
+http://172.25.25.20:1935/bein2/eleven1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Eleven Sports 2
+
+http://172.25.25.20:1935/bein2/eleven2/tracks-v1/mono.m3u8
+
+#EXTINF:-1,KSA SPORT 1
+
+http://172.25.25.20:1935/bein1/ksa1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,KSA SPORT 2
+
+http://172.25.25.20:1935/bein1/ksa2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Spor
+
+http://172.25.25.20:1935/bein1/atvsport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Fox Family Movies
+
+http://172.25.25.20:1935/live2/26/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Fox Movies
+
+http://172.25.25.20:1935/live2/23/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Fox Action Movies
+
+http://172.25.25.20:1935/live/10145/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star World HD
+
+http://172.25.25.20:1935/live3/54/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Movies HD
+
+http://172.25.25.20:1935/live3/56/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,AMC
+
+http://172.25.25.20:1935/live2/AMC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Action
+
+http://172.25.25.20:1935/live/10093/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Action
+
+http://172.25.25.20:1935/live3/42/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Comedy
+
+http://172.25.25.20:1935/live2/33/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Comedy
+
+http://172.25.25.20:1935/live/10138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Movies HD
+
+http://172.25.25.20:1935/live3/51/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Movies First
+
+http://172.25.25.20:1935/live/6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Movies First +2
+
+http://172.25.25.20:1935/live/Osn_movies_first2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Series 1
+
+http://172.25.25.20:1935/live/10104/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Series 2
+
+http://172.25.25.20:1935/live/101041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Enigma
+
+http://172.25.25.20:1935/live/10096/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Mezze
+
+http://172.25.25.20:1935/live3/53/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Living
+
+http://172.25.25.20:1935/live3/46/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Family
+
+http://172.25.25.20:1935/live3/100/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Movies Kids
+
+http://172.25.25.20:1935/live/10097/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala HD
+
+http://172.25.25.20:1935/live/7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala HD
+
+http://172.25.25.20:1935/live/10105/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala 1 HD
+
+http://172.25.25.20:1935/live/9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala Cinema
+
+http://172.25.25.20:1935/live2/31/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Cinema 1
+
+http://172.25.25.20:1935/live/cima/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Cinema 2
+
+http://172.25.25.20:1935/live/10041/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Series 1
+
+http://172.25.25.20:1935/live/10071/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Series 2
+
+http://172.25.25.20:1935/live/10072/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Al Yawm
+
+http://172.25.25.20:1935/live/10015/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Fann
+
+http://172.25.25.20:1935/live/10002/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Aflam 1
+
+http://172.25.25.20:1935/live/10124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Aflam 2
+
+http://172.25.25.20:1935/live/10017/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Hekayat 1
+
+http://172.25.25.20:1935/live/24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Hekayat 2
+
+http://172.25.25.20:1935/live3/98/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Hekayat 2
+
+http://172.25.25.20:1935/live/10173/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN MOVIES 1HD
+
+http://172.25.25.20:1935/live2/87/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN MOVIES 2HD
+
+http://172.25.25.20:1935/live2/beINMovies2HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN MOVIES 3HD
+
+http://172.25.25.20:1935/live/10024/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN MOVIES 4HD
+
+http://172.25.25.20:1935/live/10025/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN DRAMA 1 HD
+
+http://172.25.25.20:1935/live2/103/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SERIES 1 HD
+
+http://172.25.25.20:1935/live3/81/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SERIES 2 HD
+
+http://172.25.25.20:1935/live/10027/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Reel PX Cinema
+
+http://172.25.25.20:1935/live3/REELPXCINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Reel PX Comedy
+
+http://172.25.25.20:1935/live3/REELPXCOMEDY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Reel PX Unlimited
+
+http://172.25.25.20:1935/live3/REELPXUNLIMTE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Reel PX Family
+
+http://172.25.25.20:1935/live3/REELPXFAMILY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,NDN Cinema
+
+http://172.25.25.20:1935/live/n_cinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Rotana Cinema HD
+
+http://172.25.25.20:1935/live/16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Rotana Classic HD
+
+http://172.25.25.20:1935/live3/50/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Rotana Music HD
+
+http://172.25.25.20:1935/nile/rotana1.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Gulli
+
+http://172.25.25.20:1935/live/44/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Laab Wajad
+
+http://172.25.25.20:1935/live/10067/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Cartoon Network
+
+http://172.25.25.20:1935/live/10115/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,FIX & FOXI KIDS
+
+http://172.25.25.20:1935/live/15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Animation
+
+http://172.25.25.20:1935/live/10076/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Carton Zaman
+
+http://172.25.25.20:1935/live/10081/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Turkey
+
+http://172.25.25.20:1935/live/10092/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Arabic
+
+http://172.25.25.20:1935/live/10077/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Box Office
+
+http://172.25.25.20:1935/live/10080/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Comedy
+
+http://172.25.25.20:1935/live/10082/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Melody
+
+http://172.25.25.20:1935/live/10087/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Movies
+
+http://172.25.25.20:1935/live/10088/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Music
+
+http://172.25.25.20:1935/live/10089/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Funny
+
+http://172.25.25.20:1935/live/10084/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Scifi
+
+http://172.25.25.20:1935/live/10090/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON NETFLIX
+
+http://172.25.25.20:1935/live/16011/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Series
+
+http://172.25.25.20:1935/live/10091/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Anasheed
+
+http://172.25.25.20:1935/live/10075/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Asia
+
+http://172.25.25.20:1935/live/10078/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Bollywood
+
+http://172.25.25.20:1935/live/10079/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Horror
+
+http://172.25.25.20:1935/live/10085/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ON Documentary
+
+http://172.25.25.20:1935/live/n_doc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,NAT Geo Wild HD
+
+http://172.25.25.20:1935/live/8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,NAT Geo People
+
+http://172.25.25.20:1935/live2/71/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,NAT Geo HD
+
+http://172.25.25.20:1935/live3/101/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Animal Planet HD
+
+http://172.25.25.20:1935/live/12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Planet Earth HD
+
+http://172.25.25.20:1935/live/5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Science HD
+
+http://172.25.25.20:1935/live/14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Investigation Discovery
+
+http://172.25.25.20:1935/live2/DiscoveryID/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,History 1
+
+http://172.25.25.20:1935/live2/34/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,History 2
+
+http://172.25.25.20:1935/live/10178/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,HGTV
+
+http://172.25.25.20:1935/live/10125/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TLC HD
+
+http://172.25.25.20:1935/live2/22/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,E!
+
+http://172.25.25.20:1935/live/10050/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Euro Star
+
+http://172.25.25.20:1935/live/eurostar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MTV Live HD
+
+http://172.25.25.20:1935/live2/97/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC 1 
+
+http://172.25.25.20:1935/nile/mbc1.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC 3 
+
+http://172.25.25.20:1935/nile3/mbc3.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC 4
+
+http://172.25.25.20:1935/nile/mbc4-1.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC Action 
+
+http://172.25.25.20:1935/nile2/mbcaction2.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC+ Drama
+
+http://172.25.25.20:1935/live/18/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC Drama
+
+http://172.25.25.20:1935/nile3/mbcmax3.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC+ Variety
+
+http://172.25.25.20:1935/live/96/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC Max
+
+http://172.25.25.20:1935/live/10070/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC Iraq
+
+http://172.25.25.20:1935/live/mbci/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Alaraby
+
+http://172.25.25.20:1935/live/alaraby/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,AL-SHARQIYA
+
+http://172.25.25.20:1935/nile2/alsharqiya/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,AL-SHARQIYA NEWS
+
+http://172.25.25.20:1935/nile2/al-sharqiya2.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,AL-Rasheed
+
+http://172.25.25.20:1935/nile/alrasheed1.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Alsumaria
+
+http://172.25.25.20:1935/nile3/al-sumaria3.stream_360p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Iraqia
+
+http://172.25.25.20:1935/nile/iqn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Iraq Educational Sat
+
+http://172.25.25.20:1935/live/iq_edu/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Iraqia Sport
+
+http://172.25.25.20:1935/bein2/iqs/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Al Shabab Sport
+
+http://172.25.25.20:1935/bein1/shabab/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Alghadeer
+
+http://172.25.25.20:1935/live/Alghadeer/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,---------------------
+
+http://192.168.168.167:8090/live/a/
+
+#EXTINF:-1, 
+
+http://192.168.168.167:8090/live/a/
+
+#EXTINF:-1,  Majala Channels
+
+http://192.168.168.167:8090/live/a/
+
+#EXTINF:-1, 
+
+http://192.168.168.167:8090/live/a/
+
+#EXTINF:-1,beIN SPORTS Premium 1 HD
+
+http://stream.majala.store/beinsport-HD1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS Premium 2 HD
+
+http://stream.majala.store/beinsport-HD2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS Premium 3 HD
+
+http://stream.majala.store/beinsport-HD3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD1
+
+http://stream.majala.store/beinsport-HD4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD2
+
+http://stream.majala.store/beinsport-HD5/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD3
+
+http://stream.majala.store/beinsport-HD6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD4
+
+http://stream.majala.store/beinsport-HD7/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD5
+
+http://stream.majala.store/beinsport-HD8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD6
+
+http://stream.majala.store/beinsport-HD9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD7
+
+http://stream.majala.store/beinsport-HD10/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD8
+
+http://stream.majala.store/beinsport-HD11/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS HD9
+
+http://stream.majala.store/beinsport-HD12/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SPORTS NBA
+
+http://stream.majala.store/beINSport-NBA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ALKASS 3HD
+
+http://stream.majala.store/Alkass3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ALKASS 4HD
+
+http://stream.majala.store/alkass4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Eleven 2
+
+http://stream.majala.store/eleven2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Fox Movies
+
+http://stream.majala.store/FOXMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Fox Rewayat
+
+http://stream.majala.store/Bein_Fox_Rewayat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Star Movies HD
+
+http://stream.majala.store/starmovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,AMC
+
+http://stream.majala.store/AMC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Action
+
+http://stream.majala.store/OSNAction/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Comedy
+
+http://stream.majala.store/comedycenter/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Comedy
+
+http://stream.majala.store/OSNComedy/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Movies HD
+
+http://stream.majala.store/OSNMOVIESHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Series 1
+
+http://stream.majala.store/OSNseriesFirs/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Enigma
+
+http://stream.majala.store/OSNEngima/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Family
+
+http://stream.majala.store/OSNDisney/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Movies Kids
+
+http://stream.majala.store/OsnKidsHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala HD
+
+http://stream.majala.store/OSNYahla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala 1 HD
+
+http://stream.majala.store/OSNYahlaAlowl/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,OSN Yahala Cinama HD
+
+http://stream.majala.store/OSNYaHalaCinama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Cinema 1
+
+http://stream.majala.store/cinema1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Cinema 2
+
+http://stream.majala.store/cinema2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Series 1
+
+http://stream.majala.store/osnmusalsat/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,A Series 2
+
+http://stream.majala.store/osnmusalsat2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Aflam 1
+
+http://stream.majala.store/art1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Aflam 2
+
+http://stream.majala.store/art2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Cinema
+
+http://stream.majala.store/artcinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Hekayat 1
+
+http://stream.majala.store/hikayat1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,ART Hekayat 2
+
+http://stream.majala.store/hikayat2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN MOVIES 1HD
+
+http://stream.majala.store/BeinMoviesHD1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN DRAMA 1 HD
+
+http://stream.majala.store/beindrama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SERIES 1 HD
+
+http://stream.majala.store/BeinSeriesHD1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,beIN SERIES 2 HD
+
+http://stream.majala.store/BeinSeriesHD2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Nicklodeon
+
+http://stream.majala.store/nicklodeon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Spacetoon
+
+http://stream.majala.store/Spacetoon/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Planet Earth HD
+
+http://stream.majala.store/planetearth/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery HD
+
+http://stream.majala.store/DiscoveryHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Science HD
+
+http://stream.majala.store/DiscoveryScince/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,History 1
+
+http://stream.majala.store/history1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,NAT Geo HD
+
+http://stream.majala.store/NatGeo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Documentary
+
+http://stream.majala.store/Documentary/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Travel Channel
+
+http://stream.majala.store/TravelChannel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,E!
+
+http://stream.majala.store/E!/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Woman
+
+http://stream.majala.store/Osn_movies_first2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,LBC
+
+http://stream.majala.store/Fashion-Box/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,DIZI Channel
+
+http://stream.majala.store/tdc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MTV Live HD
+
+http://stream.majala.store/mtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC 3
+
+http://stream.majala.store/MBC3HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC+ Drama
+
+http://stream.majala.store/mbcdramplus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC+ Variety
+
+http://stream.majala.store/MBCVariety/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MBC Iraq
+
+http://stream.majala.store/MBCIRAQ/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,DMC Drama
+
+http://stream.majala.store/DMC-Drama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Alaraby
+
+http://stream.majala.store/Woman/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Iraqia
+
+http://stream.majala.store/aliraqia/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Al Shabab Sport
+
+http://stream.majala.store/AlShabab_Sport_HD/tracks-v1a1/mono.m3u8
